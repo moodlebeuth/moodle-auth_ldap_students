@@ -1,3 +1,8 @@
+Moodle LDAP Students
+=====================
+
+Template moodle plugin to allow multiple instances of auth_ldap_syncplus - this is forked from Moodle LDAP Instances:
+
 Moodle LDAP Instances
 =====================
 
