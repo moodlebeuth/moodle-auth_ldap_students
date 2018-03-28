@@ -15,10 +15,10 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * Auth plugin "LDAP SyncPlus" - Scheduled tasks
+ * Auth plugin "LDAP students" - Scheduled tasks
  *
  * @package    auth_ldap_syncplus
- * @copyright  2014 Alexander Bias, University of Ulm <alexander.bias@uni-ulm.de>
+ * @copyright  2016 Martin v. Löwis, <loewis@beuth-hochschule.de>
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 

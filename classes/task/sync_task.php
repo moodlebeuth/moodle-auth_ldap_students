@@ -15,20 +15,20 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * Auth plugin "LDAP SyncPlus" - Task definition
+ * Auth plugin "LDAP students" - Task definition
  *
- * @package    auth_ldap_syncplus
- * @copyright  2014 Alexander Bias, University of Ulm <alexander.bias@uni-ulm.de>
+ * @package    auth_ldap_students
+ * @copyright  2016 Martin v. Löwis, <loewis@beuth-hochschule.de>
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
 namespace auth_ldap_students\task;
 
 /**
- * The auth_ldap_syncplus scheduled task class for LDAP user sync
+ * The auth_ldap_students scheduled task class for LDAP user sync
  *
- * @package    auth_ldap_syncplus
- * @copyright  2014 Alexander Bias, University of Ulm <alexander.bias@uni-ulm.de>
+ * @package    auth_ldap_students
+ * @copyright  2016 Martin v. Löwis, <loewis@beuth-hochschule.de>
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 class sync_task extends \core\task\scheduled_task {
